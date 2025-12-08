@@ -3,7 +3,7 @@ this game will center cream the rabbit as she builds a habitable chao island to 
 \
 planned features:\
 	- chao raising, evolving, breeding, and all other related mechanics\
-	- farming & creafting to raise rings for supplies\
+	- farming & crafting to raise rings for supplies\
 	- all mechanics from sonic adventure chao gardens (race, karate, school, alignment gardens, etc)\
 	- custom garden decoration\
 	\
