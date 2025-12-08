@@ -11,7 +11,7 @@ advanced features hoping to implement:\
 	- easy modding (maps, chao, toys, etc)\
 	- custom chao garden creation in-game?\
 	- multiplayer with chao trading and interaction\
-		- probably allow players to bring one chao while visiting others.\chao can breed, play, and perhaps learn things from each other\
+		- probably allow players to bring one chao while visiting others.\ chao can breed, play, and perhaps learn things from each other\
 		\
 i am open to more ideas and any assistance with development. thanks for checking this out!\
 ~ xeli37
