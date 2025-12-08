@@ -1,7 +1,7 @@
 this is a WIP sonic fangame based on the sonic adventure's chao gardens
 this game will center cream the rabbit as she builds a habitable chao island to raise her own lil buddies <3\
 \
-planned featured:\
+planned features:\
 	- chao raising, evolving, breeding, and all other related mechanics\
 	- farming & creafting to raise rings for supplies\
 	- all mechanics from sonic adventure chao gardens (race, karate, school, alignment gardens, etc)\
